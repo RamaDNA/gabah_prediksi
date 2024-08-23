@@ -1,4 +1,3 @@
-setuptools>=58.0.0
 joblib==1.1.0
 requests==2.29.0
 Pillow==8.4.0
